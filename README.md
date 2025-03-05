@@ -1,31 +1,38 @@
-**Software Test Engineer | Automation Enthusiast**
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Midhun!  
+</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=550&lines=QA+Automation+Engineer;Playwright+%7C+Selenium+%7C+JavaScript;Python+%7C+Java+%7C+Azure;Always+Learning+%26+Improving!+%F0%9F%9A%80" alt="Typing SVG">
+</p>
 
-Hello there! I'm Midhun Nair, a passionate software test engineer dedicated to ensuring the highest quality and reliability of software products. With a keen eye for detail and a knack for finding elusive bugs, I thrive on the challenge of delivering flawless user experiences.
+## 🚀 About Me  
 
-**Expertise:**
-- **Test Automation:** Proficient in designing and implementing automated test suites using industry-standard tools such as Selenium and TestNG.
-- **Manual Testing:** A meticulous approach to manual testing, ensuring comprehensive coverage and uncovering edge cases.
+- 💡 Passionate about **Test Automation, CI/CD and exploring new technologies.**  
+- 🤖 Exploring **Python & AI-driven testing innovations!**  
+- 📚 **Lifelong learner**
 
-**Tech Stack:**
-- Languages: Java
-- Testing Frameworks: TestNG, Selenium WebDriver
-- Version Control: Git/GitHub
+## 🛠️ Tech Stack  
 
-**Tools I Love:**
-- Selenium for web application testing
-- Postman for API testing
-- Jira & DevOps for efficient bug tracking and project management
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,selenium,azure,git,github,python,playwright" />
+</p>
 
-**Continuous Learning:**
-I'm always exploring emerging testing methodologies and staying up-to-date with the latest trends in software quality assurance. Learning is a journey, and I embrace it enthusiastically!
+## 📫 Connect with Me  
 
-**Community Engagement:**
-I believe in the power of collaboration and knowledge sharing. Actively involved in the testing community through conferences, meetups, and contributing to open-source projects.
+<p align="center">
+  <a href="https://www.linkedin.com/in/midhun" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/MidhunQA" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-**Connect with Me:**
-Let's connect and share insights! Feel free to reach out on https://www.linkedin.com/in/midhun-nair-977523211/
+## 🔍 Inspiring Quotes  
+> **"Quality is never an accident; it is always the result of intelligent effort."** – John Ruskin  
 
-**Check Out My Repositories:**
-Explore my GitHub repositories for insights into my testing strategies and automation projects.
+> **"All power is within you; you can do anything and everything."** – Swami Vivekananda  
 
-Happy testing!
+<p align="center">
+  <strong>🚀 Happy Testing and Keep Automating! 🔥</strong>
+</p>
